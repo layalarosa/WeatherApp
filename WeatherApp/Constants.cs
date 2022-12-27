@@ -9,6 +9,6 @@ namespace WeatherApp
     public class Constants
     {
         public static string OpenWeatherMapEndpoint = "https://api.openweathermap.org/data/2.5/weather";
-        public static string OpenWeatherMapAPIKey = "6cfbec15314cf97fa5d556eccf500c54";
+        public static string OpenWeatherMapAPIKey = "";
     }
 }
